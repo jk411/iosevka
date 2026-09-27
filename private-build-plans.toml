@@ -9,6 +9,7 @@ exportGlyphNames = false
   inherits = "ss04"
 
     [buildPlans.Iosevka.variants.design]
+    one = "no-base"
     capital-d = "standard-serifless"
     g = "single-storey-flat-hook-serifless"
     l = "serifed"
